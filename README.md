@@ -30,3 +30,4 @@ n=int(input())
 ![Alt text](image-1.png)
 
 ## Result:
+Thus the circulate of N variables successfully executed
